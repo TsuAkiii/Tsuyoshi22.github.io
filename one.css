@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: url(image/background.png);
+    font-family: 'Roboto', sans-serif;
+}
+
+.one {
+    position: absolute;
+    left: 10.41vw;
+    top: 8.41vw;
+    width: 20.83vw;
+    height: 20.83vw;
+    padding: 10px 10px 10px 10px;
+    border: 5px solid #FFFFFF;
+    border-radius: 250px;
+}
+
+.pp {
+    border-radius: 300px;
+}
+
+
+.two {
+    color: #ffffff;
+    position: absolute;
+    left: 33.85vw;
+    top: 11.02vw;
+}
+
+section div h1 {
+    font-size: 100px;
+    margin: 0px 0px 20px 0px;
+}
+
+section div h2 {
+    font-size: 40px;
+    width: 43.75vw;
+    margin: 0px 0px 20px 0px;
+}
+
+.three {
+    position: absolute;
+    color: #ffffff;
+    left: 12.1875vw;
+    top: 75.20vh;
+    font-size: 40px;
+    text-decoration: none;
+    padding: 15px 110px 15px 25px;
+    border: 5px solid #FFFFFF;
+    border-radius: 50px;
+}
+
+.four {
+    position: absolute;
+    color: #ffffff;
+    left: 30.52vw;
+    top: 75.20vh;
+    font-size: 40px;
+    text-decoration: none;
+    padding: 15px 110px 15px 25px;
+    border: 5px solid #FFFFFF;
+    border-radius: 50px;
+}
+
+.five {
+    position: absolute;
+    color: #ffffff;
+    left: 48.75vw;
+    top: 75.20vh;
+    font-size: 40px;
+    text-decoration: none;
+    padding: 15px 110px 15px 25px;
+    border: 5px solid #FFFFFF;
+    border-radius: 50px;
+}
+
+.twitter {
+    position: absolute;
+    width: 3vw;
+    top: 76.75vh;
+    left: 21.5vw
+}
+
+.discord {
+    position: absolute;
+    width: 3vw;
+    top: 77vh;
+    left: 58.5vw;
+}
+
+.github {
+    position: absolute;
+    width: 2.9vw;
+    top: 76.85vh;
+    left: 40vw;
+}
