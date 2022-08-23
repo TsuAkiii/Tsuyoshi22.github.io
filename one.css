@@ -97,3 +97,181 @@ section div h2 {
     top: 77vh;
     left: 40vw;
 }
+
+
+@media only screen and (max-width: 1024px) {
+
+    .one {
+        position: absolute;
+        left: 38vw;
+        top: 8.41vw;
+        width: 20.83vw;
+        height: 20.83vw;
+        padding: 0.52vw 0.52vw 0.52vw 0.52vw;
+        border: 0.26vw solid #FFFFFF;
+        border-radius: 250px;
+    }
+    
+    
+    
+    .two {
+        color: #ffffff;
+        position: absolute;
+        left: 27.5vw;
+        top: 31.02vw;
+        text-align: center;
+    }
+    
+    
+    
+    .three {
+        position: absolute;
+        color: #ffffff;
+        left: 17.1875vw;
+        top: 65.20vh;
+        font-size: 3.5vw;
+        text-decoration: none;
+        padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+        border: 0.26vw solid #FFFFFF;
+        border-radius: 50px;
+    }
+    
+    .four {
+        position: absolute;
+        color: #ffffff;
+        left: 40.52vw;
+        top: 65.20vh;
+        font-size: 3.5vw;
+        text-decoration: none;
+        padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+        border: 0.26vw solid #FFFFFF;
+        border-radius: 50px;
+    }
+    
+    .five {
+        position: absolute;
+        color: #ffffff;
+        left: 63.75vw;
+        top: 65.20vh;
+        font-size: 3.5vw;
+        text-decoration: none;
+        padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+        border: 0.26vw solid #FFFFFF;
+        border-radius: 50px;
+    }
+    
+    .twitter {
+        position: absolute;
+        width: 3.5vw;
+        top: 67vh;
+        left: 30vw
+    }
+    
+    .discord {
+        position: absolute;
+        width: 3.8vw;
+        top: 66.9vh;
+        left: 77.5vw;
+    }
+    
+    .github {
+        position: absolute;
+        width: 3.5vw;
+        top: 66.7vh;
+        left: 53.5vw;
+    }
+    
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        .one {
+            position: absolute;
+            left: 38vw;
+            top: 8.41vw;
+            width: 20.83vw;
+            height: 20.83vw;
+            padding: 0.52vw 0.52vw 0.52vw 0.52vw;
+            border: 0.4vw solid #FFFFFF;
+            border-radius: 250px;
+        }
+        
+        
+        
+        .two {
+            color: #ffffff;
+            position: absolute;
+            left: 27.5vw;
+            top: 31.02vw;
+            text-align: center;
+        }
+        
+        section div h1 {
+            font-size: 6vw;
+            margin: 10px 0px 20px 0px;
+        }
+        
+        section div h2 {
+            font-size: 2.8vw;
+            width: 43.75vw;
+            margin: 0px 0px 20px 0px;
+        }
+        
+        .three {
+            position: absolute;
+            color: #ffffff;
+            left: 35vw;
+            top: 42.20vh;
+            font-size: 5vw;
+            text-decoration: none;
+            padding: 0.78vw 10.72vw 0.78vw 3vw;
+            border: 0.4vw solid #FFFFFF;
+            border-radius: 50px;
+        }
+        
+        .four {
+            position: absolute;
+            color: #ffffff;
+            left: 35vw;
+            top: 52.20vh;
+            font-size: 5vw;
+            text-decoration: none;
+            padding: 0.78vw 10.72vw 0.78vw 3vw;
+            border: 0.4vw solid #FFFFFF;
+            border-radius: 50px;
+        }
+        
+        .five {
+            position: absolute;
+            color: #ffffff;
+            left: 35vw;
+            top: 62.20vh;
+            font-size: 5vw;
+            text-decoration: none;
+            padding: 0.78vw 9.2vw 0.78vw 3vw;
+            border: 0.4vw solid #FFFFFF;
+            border-radius: 50px;
+        }
+        
+        .twitter {
+            position: absolute;
+            width: 5vw;
+            top: 43.5vh;
+            left: 57vw
+        }
+        
+        .discord {
+            position: absolute;
+            width: 5.5vw;
+            top: 63.5vh;
+            left: 57vw;
+        }
+        
+        .github {
+            position: absolute;
+            width: 5vw;
+            top: 53.5vh;
+            left: 57vw;
+        }
+        
+        }
