@@ -46,10 +46,10 @@ section div h2 {
     color: #ffffff;
     left: 12.1875vw;
     top: 75.20vh;
-    font-size: 40px;
+    font-size: 2.41vw;
     text-decoration: none;
-    padding: 15px 110px 15px 25px;
-    border: 5px solid #FFFFFF;
+    padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+    border: 0.26vw solid #FFFFFF;
     border-radius: 50px;
 }
 
@@ -58,10 +58,10 @@ section div h2 {
     color: #ffffff;
     left: 30.52vw;
     top: 75.20vh;
-    font-size: 40px;
+    font-size: 2.41vw;
     text-decoration: none;
-    padding: 15px 110px 15px 25px;
-    border: 5px solid #FFFFFF;
+    padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+    border: 0.26vw solid #FFFFFF;
     border-radius: 50px;
 }
 
@@ -70,30 +70,30 @@ section div h2 {
     color: #ffffff;
     left: 48.75vw;
     top: 75.20vh;
-    font-size: 40px;
+    font-size: 2.41vw;
     text-decoration: none;
-    padding: 15px 110px 15px 25px;
-    border: 5px solid #FFFFFF;
+    padding: 0.78vw 5.72vw 0.78vw 0.78vw;
+    border: 0.26vw solid #FFFFFF;
     border-radius: 50px;
 }
 
 .twitter {
     position: absolute;
-    width: 45px;
-    top: 77.5vh;
+    width: 3vw;
+    top: 77vh;
     left: 21.5vw
 }
 
 .discord {
     position: absolute;
-    width: 45px;
-    top: 77.7vh;
+    width: 3vw;
+    top: 77.3vh;
     left: 58.5vw;
 }
 
 .github {
     position: absolute;
-    width: 45px;
-    top: 77.5vh;
+    width: 3vw;
+    top: 77vh;
     left: 40vw;
 }
